@@ -9,6 +9,4 @@ At Astrodevs, we’re passionate about developing innovative and user-friendly s
 If you'd like to support our work and keep us fueled with caffeine, consider buying us a coffee!
   <a href="https://www.buymeacoffee.com/astrodevs" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="120"> </a>
 
-### 🌟 Our Projects
-
-- **[Astrotheme](https://marketplace.visualstudio.com/items?itemName=Astrodevs.astrotheme-dark&ssr=false)**:  🎨 Our custom dark theme for VSCode
+### [🌟 Our Projects](https://github.com/orgs/AstroDevs-Team/repositories)
