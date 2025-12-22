@@ -26,10 +26,13 @@ Every supporter who buys us a coffee will have their **name placed inside the ap
 
 ## 🚀 Growth Objective
 
-We’re pushing all Astrodevs socials to **100 followers/subscribers**.  
-Join the movement — help shape the early days of the ecosystem.
+Astrodevs has **passed 3.8K subscribers on YouTube** — now we’re scaling the **entire ecosystem**.
 
-- **Youtube:** https://www.youtube.com/@AstroDevs_Team
+Next milestone: **100+ followers on every Astrodevs social** to unify the community across platforms and accelerate growth.
+
+Join early. Help shape what’s next.
+
+- **YouTube (3.89K+):** https://www.youtube.com/@AstroDevs_Team  
 - **Instagram:** https://www.instagram.com/astrodevs  
 - **LinkedIn:** https://www.linkedin.com/company/astr...  
 - **X (Twitter):** https://x.com/astrodevs_team  
