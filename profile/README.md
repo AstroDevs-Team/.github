@@ -18,7 +18,7 @@ Donate: https://astrodevs.space/donate
 
 We just crossed 3.8K subscribers on YouTube, and now we're trying to grow the rest of our socials too. Goal is 100+ followers everywhere so the community isn't scattered across five different apps. Join early if you want to be part of that.
 
-- YouTube (3.89K+): https://www.youtube.com/@AstroDevs_Team
+- YouTube (4K+): https://www.youtube.com/@AstroDevs_Team
 - Instagram: https://www.instagram.com/astrodevs
 - LinkedIn: https://www.linkedin.com/company/astr...
 - X (Twitter): https://x.com/astrodevs_team
